@@ -1,3 +1,8 @@
+#ideas
+#
+#could try analyzing comments for positive/negative feedback -- should be fun
+
+
 import soundcloud, sys
 
 CLIENT_ID = ''
